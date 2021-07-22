@@ -10,7 +10,6 @@ body {
     max-width: 1140px;
     height: 100%;
     margin: auto;
-    /* background-color: antiquewhite; */
 }
 
 header {
@@ -42,7 +41,6 @@ header {
     margin-right: 10px;
     border-radius: 12px;
     border: 2px solid #4B4B4B;
-    /* border-radius: 30px; */
 }
 
 .logo img, 
@@ -76,11 +74,11 @@ header .container {
 .we-are__div__text {
     width: 100%;
     text-align: center;
-    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Nova square', sans-serif;
     color: white;
     font-size: 72px;
     margin: auto;
-    /* background-color: red; */
 }
 
 
@@ -163,7 +161,8 @@ footer .container {
     font-weight: 1;
     color: #F0F0F0;
     font-size: 64px;
-    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Nova square', sans-serif;
 }
 
 .contact__text {
@@ -175,7 +174,6 @@ footer .container {
 .pics-container {
     display: flex;
     width: 35%;
-    /* background-color: red; */
     justify-content: space-between;
 }
 
